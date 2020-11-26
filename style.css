@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+canvas {
+  background-color: rgb(136, 11, 109);
+}
+
+body {
+  overflow: hidden;
+}
+
+#cart {
+  display: none;
+}
+#dim {
+  display: none;
+}
